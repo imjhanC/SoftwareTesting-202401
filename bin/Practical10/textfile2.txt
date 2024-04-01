@@ -1,0 +1,2 @@
+Wilfred	english:57	malay:27	maths:99	art:47
+Boyce	malay:24	history:46	art:24	maths:28

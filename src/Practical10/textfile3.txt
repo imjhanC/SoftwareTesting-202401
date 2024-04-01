@@ -1,0 +1,7 @@
+Dyson	maths:17	malay:15	science:80	geography:16
+Wandis	art:77	maths:66	geography:17	science:61
+Tella	art:8	science:59	geography:52	maths:23
+Nataline	malay:61	geography:90	science:52	history:37
+Gardener	history:50	geography:73	science:47	malay:13
+Chuck	english:29	science:42	maths:3	history:14
+Nicolina	art:14	history:3	geography:30	science:39
